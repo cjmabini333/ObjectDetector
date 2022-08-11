@@ -1,6 +1,6 @@
 # Object Detector 
 ## Using Python Language
 
-###Requirements
+Requirements
 - opencv-python
 - numpy (usually this is installed automatically with opencv)
