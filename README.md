@@ -6,6 +6,11 @@
 
 Python Version used:     Python 3.10
 ---
+Output:
+
+![](folder/objectdetector.png)
+
+---
 Packages used:
 - opencv-python
 - numpy (usually this is installed automatically with opencv)
