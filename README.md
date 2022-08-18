@@ -38,4 +38,4 @@ pip install opencv-python
 Step 3: Open the file in any IDE, would recommend PyCharm or Visual Studio Code.
 
 
-Step 4: Open the `main2.py` file and open a terminal and type `main2.py` to run the program.
+Step 4: Open the `main2.py` file and open a terminal and type `python main2.py` to run the program.
