@@ -1,12 +1,15 @@
 # Object Detector 
-Using Python Language
+---
+### This project is an Object Detector which detects common household objects and labels it accordingly.
 
-Version used:     Python 3.10
+---
 
+Python Version used:     Python 3.10
+---
 Packages used:
 - opencv-python
 - numpy (usually this is installed automatically with opencv)
-
+---
 You need:
 - coco names(file)
 - frozen_inference_graph.pb
@@ -16,7 +19,18 @@ You need:
 
 How to run:
 
-- Step 1: Clone the repository on any folder or download the zip file and extract it to a folder.
-- Step 2: Install the required packages, make sure that the packages are inside the environment.
-- Step 3: Open the file in any IDE, would recommend PyCharm or Visual Studio Code.
-- Step 4: Open the main2.py file and the press CTRL + F5 or open a terminal to run the program.
+Step 1: Clone the repository on any folder or download the zip file and extract it to a folder.
+
+```
+https://github.com/cjmabini333/ObjectDetector.git
+```
+
+Step 2: Install the required packages, make sure that the packages are inside the environment.
+```
+pip install opencv-python
+```
+
+Step 3: Open the file in any IDE, would recommend PyCharm or Visual Studio Code.
+
+
+Step 4: Open the main2.py file and open a terminal and type main2.py to run the program.
